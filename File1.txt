@@ -6,6 +6,3 @@ Now we will learn about statshing,delete, update of the data in the files.
 
 Day2 session is started.
 
-Function to fix Bug(){
-// snippet to fix bug
-}
