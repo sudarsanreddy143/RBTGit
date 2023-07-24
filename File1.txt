@@ -3,3 +3,5 @@ Welcome to git session.
 Welcome to the Day1 Training of Git session to learn basics of Git.
 
 Now we will learn about statshing,delete, update of the data in the files. 
+
+Day2 session is started.
