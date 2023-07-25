@@ -10,6 +10,9 @@ Demo - to undo the committed changes. *
 
 Line2 - to verify the undo committed messages. *
 
+
 Function to Bug123(){
 // snippet to fix Bug123..
 }
+
+new line for CR2.
