@@ -1,14 +1,14 @@
-Welcome to git session..*
+Welcome - to git session..*
 
-Welcome to the Day1 Training of Git session to learn basics of Git..*
+Welcome - to the Day1 Training of Git session to learn basics of Git..*
 
-Now we will learn about statshing,delete, update of the data in the files..* 
+Now we - will learn about statshing,delete, update of the data in the files..* 
 
-Day2 session is started..
+Day2 - session is started..
 
-Demo to undo the committed changes. *
+Demo - to undo the committed changes. *
 
-Line2 to verify the undo committed messages. *
+Line2 - to verify the undo committed messages. *
 
 Function to Bug123(){
 // snippet to fix Bug123..
