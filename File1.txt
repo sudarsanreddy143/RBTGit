@@ -19,3 +19,5 @@ new line for CR2.
 
 New line is added and the work is in progress.
 New line is added by team member remotely.
+
+New line is added to check the conflicts.
