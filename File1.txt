@@ -19,4 +19,9 @@ new line for CR2.
 
 New line is added and the work is in progress.
 New line is added by team member remotely.
+
 A line is added to verify the conflicts in the remote repository.
+
+
+New line is added to check the conflicts.
+
